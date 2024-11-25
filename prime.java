@@ -1,6 +1,7 @@
 // prime.java
 // This program checks if a number is prime
 // added comments 
+//prime program
 public class prime {
     // Method to check if a number is prime
     public static boolean isPrime(int number) {
