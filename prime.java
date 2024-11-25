@@ -26,3 +26,4 @@ public class prime {
         }
     }
 }
+//completion of program
