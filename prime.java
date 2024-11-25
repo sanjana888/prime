@@ -20,6 +20,7 @@ public class prime {
         int number = 7; // You can change this number for testing
         if (isPrime(number)) {
             System.out.println("The number " + number + " is a prime number.");
+            System.out.println("This is prime code");
         } else {
             System.out.println("The number " + number + " is not a prime number.");
         }
